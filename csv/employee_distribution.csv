@@ -1,0 +1,66 @@
+company_name,linkedin_url,function,number_of_employees,percentage_of_total_headcount,six_month_growth,twelve_month_growth
+oyo,https://www.linkedin.com/company/oyo-rooms/,Operations,3397,25,4%,8%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Business Development,2020,15,-1%,-1%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Sales,1564,11,1%,1%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Administrative,813,6,18%,37%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Support,732,5,8%,19%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Engineering,574,4,-27%,-28%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Program and Project Management,307,2,-5%,-9%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Education,224,2,10%,28%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Accounting,344,2,-1%,69%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Marketing,242,2,-10%,-8%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Information Technology,289,2,1%,2%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Human Resources,259,2,-12%,-9%
+oyo,https://www.linkedin.com/company/oyo-rooms/,Finance,255,2,-9%,-9%
+apple,https://www.linkedin.com/company/apple/,Engineering,43426,19,6%,16%
+apple,https://www.linkedin.com/company/apple/,Sales,25101,11,28%,43%
+apple,https://www.linkedin.com/company/apple/,Administrative,20117,9,101%,248%
+apple,https://www.linkedin.com/company/apple/,Information Technology,21404,9,1%,1%
+apple,https://www.linkedin.com/company/apple/,Operations,15991,7,20%,38%
+apple,https://www.linkedin.com/company/apple/,Program and Project Management,8242,4,4%,11%
+apple,https://www.linkedin.com/company/apple/,Education,7141,3,46%,108%
+apple,https://www.linkedin.com/company/apple/,Business Development,7058,3,16%,27%
+apple,https://www.linkedin.com/company/apple/,Arts and Design,7854,3,11%,29%
+apple,https://www.linkedin.com/company/apple/,Support,4691,2,15%,20%
+apple,https://www.linkedin.com/company/apple/,Accounting,4602,2,44%,113%
+apple,https://www.linkedin.com/company/apple/,Media and Communication,3783,2,13%,26%
+apple,https://www.linkedin.com/company/apple/,Marketing,4824,2,7%,15%
+microsoft,https://www.linkedin.com/company/microsoft,Engineering,86593,38,1%,13%
+microsoft,https://www.linkedin.com/company/microsoft,Information Technology,26703,12,No,5%
+microsoft,https://www.linkedin.com/company/microsoft,Sales,19513,9,2%,5%
+microsoft,https://www.linkedin.com/company/microsoft,Program and Project Management,20493,9,-2%,3%
+microsoft,https://www.linkedin.com/company/microsoft,Business Development,9648,4,-1%,3%
+microsoft,https://www.linkedin.com/company/microsoft,Support,6053,3,-6%,-18%
+microsoft,https://www.linkedin.com/company/microsoft,Product Management,7088,3,5%,28%
+microsoft,https://www.linkedin.com/company/microsoft,Operations,7021,3,No,6%
+microsoft,https://www.linkedin.com/company/microsoft,Education,4142,2,-13%,-8%
+microsoft,https://www.linkedin.com/company/microsoft,Consulting,4036,2,-4%,-6%
+microsoft,https://www.linkedin.com/company/microsoft,Arts and Design,5632,2,1%,8%
+microsoft,https://www.linkedin.com/company/microsoft,Administrative,3969,2,-4%,-4%
+microsoft,https://www.linkedin.com/company/microsoft,Marketing,5387,2,No,3%
+microsoft,https://www.linkedin.com/company/microsoft,Human Resources,4375,2,-15%,-13%
+google,https://www.linkedin.com/company/google/,Media and Communication,86504,27,5%,11%
+google,https://www.linkedin.com/company/google/,Engineering,76922,24,3%,18%
+google,https://www.linkedin.com/company/google/,Sales,14849,5,4%,12%
+google,https://www.linkedin.com/company/google/,Arts and Design,15475,5,6%,14%
+google,https://www.linkedin.com/company/google/,Information Technology,14566,5,3%,13%
+google,https://www.linkedin.com/company/google/,Program and Project Management,12810,4,4%,16%
+google,https://www.linkedin.com/company/google/,Business Development,12559,4,4%,11%
+google,https://www.linkedin.com/company/google/,Marketing,14456,4,3%,12%
+google,https://www.linkedin.com/company/google/,Operations,9500,3,4%,13%
+google,https://www.linkedin.com/company/google/,Education,6301,2,No,26%
+google,https://www.linkedin.com/company/google/,Product Management,6780,2,4%,19%
+google,https://www.linkedin.com/company/google/,Human Resources,5509,2,-11%,-8%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Operations,12668,24,15%,24%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Engineering,10739,20,10%,22%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Information Technology,4259,8,9%,12%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Support,2557,5,5%,6%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Sales,2837,5,19%,20%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Program and Project Management,2471,5,10%,17%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Media and Communication,2348,4,23%,32%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Quality Assurance,1572,3,11%,24%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Human Resources,1704,3,18%,25%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Education,1030,2,62%,141%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Business Development,1228,2,28%,43%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Arts and Design,839,2,25%,37%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Administrative,827,2,73%,113%

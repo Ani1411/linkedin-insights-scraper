@@ -1,0 +1,43 @@
+company_name,linkedin_url,function,number_of_openings,percentage_of_total_openings,three_month_growth,six_month_growth,twelve_month_growth
+oyo,https://www.linkedin.com/company/oyo-rooms/,,,,,,
+apple,https://www.linkedin.com/company/apple/,Engineering,2332,51,-31%,-48%,-37%
+apple,https://www.linkedin.com/company/apple/,Information Technology,354,8,-48%,-59%,-60%
+apple,https://www.linkedin.com/company/apple/,Quality Assurance,301,7,-24%,-35%,-31%
+apple,https://www.linkedin.com/company/apple/,Program and Project Management,293,6,-35%,-53%,-49%
+apple,https://www.linkedin.com/company/apple/,Arts and Design,157,3,-51%,-58%,-54%
+apple,https://www.linkedin.com/company/apple/,Operations,145,3,-42%,-59%,-59%
+apple,https://www.linkedin.com/company/apple/,Sales,90,2,-34%,-57%,-51%
+apple,https://www.linkedin.com/company/apple/,Business Development,84,2,-37%,-53%,-46%
+apple,https://www.linkedin.com/company/apple/,Education,80,2,5%,196%,54%
+microsoft,https://www.linkedin.com/company/microsoft,Engineering,2835,42,-52%,-50%,-68%
+microsoft,https://www.linkedin.com/company/microsoft,Program and Project Management,889,13,-41%,-49%,-73%
+microsoft,https://www.linkedin.com/company/microsoft,Product Management,739,11,29%,32%,144%
+microsoft,https://www.linkedin.com/company/microsoft,Information Technology,543,8,-68%,-75%,-80%
+microsoft,https://www.linkedin.com/company/microsoft,Support,247,4,-52%,-66%,-80%
+microsoft,https://www.linkedin.com/company/microsoft,Operations,168,3,-80%,-53%,-69%
+microsoft,https://www.linkedin.com/company/microsoft,Arts and Design,161,2,-61%,-50%,-76%
+microsoft,https://www.linkedin.com/company/microsoft,Education,155,2,60%,6%,-9%
+microsoft,https://www.linkedin.com/company/microsoft,Human Resources,154,2,276%,-6%,-26%
+microsoft,https://www.linkedin.com/company/microsoft,Marketing,135,2,-87%,-75%,-73%
+microsoft,https://www.linkedin.com/company/microsoft,Business Development,131,2,-86%,-75%,-84%
+microsoft,https://www.linkedin.com/company/microsoft,Sales,121,2,-96%,-90%,-92%
+google,https://www.linkedin.com/company/google/,Engineering,1334,37,-20%,-70%,-39%
+google,https://www.linkedin.com/company/google/,Information Technology,450,12,-15%,-75%,-55%
+google,https://www.linkedin.com/company/google/,Program and Project Management,377,10,-30%,-77%,-60%
+google,https://www.linkedin.com/company/google/,Sales,239,7,-35%,-76%,-68%
+google,https://www.linkedin.com/company/google/,Operations,223,6,-18%,-69%,-50%
+google,https://www.linkedin.com/company/google/,Support,174,5,14%,-71%,-51%
+google,https://www.linkedin.com/company/google/,Product Management,152,4,-50%,-81%,-72%
+google,https://www.linkedin.com/company/google/,Business Development,121,3,-47%,-85%,-74%
+google,https://www.linkedin.com/company/google/,Research,97,3,-12%,-68%,-62%
+google,https://www.linkedin.com/company/google/,Arts and Design,68,2,-22%,-78%,-59%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Operations,2083,28,2%,63%,47%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Engineering,1646,22,3%,40%,48%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Information Technology,700,9,-17%,7%,60%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Support,455,6,5%,242%,49%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Program and Project Management,310,4,2%,99%,65%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Quality Assurance,305,4,17%,54%,30%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Education,279,4,176%,174%,20%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Arts and Design,199,3,24%,97%,298%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Sales,196,3,42%,430%,-47%
+tesla-motors,https://www.linkedin.com/company/tesla-motors/,Human Resources,148,2,-26%,30%,17%
