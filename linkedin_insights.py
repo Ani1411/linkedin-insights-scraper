@@ -45,7 +45,7 @@ class InsightsReader:
                 is_login = True
         except Exception:
             is_login = False
-        finally:
+        else:
             return is_login
 
     def scroll(self):
